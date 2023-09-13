@@ -16,6 +16,7 @@ void esercizio12();
 void esercizio13();
 void esercizio14();
 
+//main
 int main() {
     int scelta;
     
