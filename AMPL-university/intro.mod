@@ -1,3 +1,5 @@
+#MODULE
+
 set INV;  			# Creo un insieme chiamato "INV"
 
 param Costo{INV};  	# Creo un parametro chiamato "Costo" indicizzato sull'insieme "INV"
