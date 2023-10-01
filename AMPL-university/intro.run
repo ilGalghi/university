@@ -1,0 +1,15 @@
+#RUN
+
+reset;  			# Resetta eventuali variabili o dati preesistenti.
+
+model intro.mod;  	# Carica il modello dal file "Intro.mod".
+
+data intro.dat;  	# Carica i dati dal file "Intro.dat".
+
+option solver cbc;  # Imposta il solver CBC per risolvere il problema.
+
+solve;  			# Risolve ciò che è definito nel modello
+
+display x;  		# Mostra i valori delle variabili "x", che rappresentano la selezione degli elementi.
+
+display output;  	# Mostra il valore dell'obiettivo ottenuto (somma dei ricavi meno i costi per gli elementi selezionati).
