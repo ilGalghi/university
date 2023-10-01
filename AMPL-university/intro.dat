@@ -1,0 +1,21 @@
+#DATI
+
+set INV := A B C D E F G H I L;  # Definisco un insieme chiamato "INV" con elementi A, B, C, D, E, F, G, H, I, L
+
+param: Costo Ricavo :=  # Definisco due parametri, "Costo" e "Ricavo", indicizzati sugli elementi di "INV" (per intro.mod)
+A 24 38  # Per l'elemento A, il costo è 24 e il ricavo è 38
+B 30 50  # Per l'elemento B, il costo è 30 e il ricavo è 50
+C 18 27  # Per l'elemento C, il costo è 18 e il ricavo è 27
+D 30 51  # Per l'elemento D, il costo è 30 e il ricavo è 51
+E 56 86  # Per l'elemento E, il costo è 56 e il ricavo è 86
+F 15 22  # Per l'elemento F, il costo è 15 e il ricavo è 22
+G 22 33  # Per l'elemento G, il costo è 22 e il ricavo è 33
+H 21 35  # Per l'elemento H, il costo è 21 e il ricavo è 35
+I 26 46  # Per l'elemento I, il costo è 26 e il ricavo è 46
+L 15 23; # Per l'elemento L, il costo è 15 e il ricavo è 23
+
+
+param budget:= 100;	# Definisco il valore fisso del budget come 100.
+
+
+# Notazione: ":=" viene usata per assegnare un valore
