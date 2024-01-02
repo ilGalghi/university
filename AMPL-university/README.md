@@ -7,4 +7,13 @@ AMPL (A Mathematical Programming Language) is an algebraic modeling language to 
   * *How it works:* This file contains the input data needed to run the model. They must match the parameters contained in the file.mod
 - `file.run`: Execution/run file for the model.
   * *How it works:* This file contains the information about which solver to use and which calculations to show at the end
-`
+
+
+
+<br> <!-- Riga vuota aggiunta -->
+
+# Dettagli del corso
+- **Nome corso**: Programmazione Matematica
+- **Anno**: 2° Anno
+- **Semestre**: 1° Semestre
+- **Anno Accademico**: 2023-2024
