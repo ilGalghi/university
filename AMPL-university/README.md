@@ -1,5 +1,6 @@
 # AMPL
 AMPL (A Mathematical Programming Language) is an algebraic modeling language to describe and solve high-complexity problems for large-scale mathematical computing (e.g. large-scale optimization and scheduling-type problems).
+
 ## Required files
 - `file.mod`: Main model file.
   * *How it works:* This file contains the descriptions of the parameters, sets and all the mathematical formulas necessary to solve the problem
@@ -8,11 +9,11 @@ AMPL (A Mathematical Programming Language) is an algebraic modeling language to 
 - `file.run`: Execution/run file for the model.
   * *How it works:* This file contains the information about which solver to use and which calculations to show at the end
 
+## Required software
+* [AMPL Official IDE](https://ampl.com/start-free-now/)
 
 
-<br> <!-- Riga vuota aggiunta -->
-
-# Dettagli del corso
+## Dettagli del corso
 - **Nome corso**: Programmazione Matematica
 - **Anno**: 2° Anno
 - **Semestre**: 1° Semestre
