@@ -3,8 +3,8 @@ Java is a high-level, class-based, object-oriented programming language that is 
 > Not to be confused with Java (software platform), JavaScript, or Javanese language.
 
 ## Required software
-* Eclipse IDE
-* JDK Development Kit
+* [Eclipse IDE](https://eclipseide.org/)
+* [JDK Development Kit](https://www.oracle.com/java/technologies/downloads/)
 
 ## Dettagli del corso
 - **Nome corso**: Progettazione del Software
