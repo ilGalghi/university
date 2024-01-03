@@ -9,9 +9,11 @@ Explore coursework in different languages:
 - [Java](https://www.java.com/) - Object-oriented programming
 - [Python](https://www.python.org/) - Versatile and powerful scripting language
 
+<!--
 ## Software Tools 🛠️
 Discover the tools utilized for development:
 - AMPL: Official software
 - C: WSL 2 (installed `g++`) & Visual Studio Code
 - Java: Eclipse IDE
 - Python: IDLE Python
+-->
