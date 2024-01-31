@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-24T10:58:38.983252100Z</date>
+  <millis>1698145118983</millis>
+  <nanos>252100</nanos>
+  <sequence>0</sequence>
+  <logger>Principale</logger>
+  <level>WARNING</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>main() iniziato</message>
+</record>
+<record>
+  <date>2023-10-24T10:58:39.041276400Z</date>
+  <millis>1698145119041</millis>
+  <nanos>276400</nanos>
+  <sequence>1</sequence>
+  <logger>Principale</logger>
+  <level>INFO</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somma= 0</message>
+</record>
+<record>
+  <date>2023-10-24T10:58:39.043468200Z</date>
+  <millis>1698145119043</millis>
+  <nanos>468200</nanos>
+  <sequence>2</sequence>
+  <logger>Principale</logger>
+  <level>INFO</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somma= 7</message>
+</record>
+<record>
+  <date>2023-10-24T10:58:39.043468200Z</date>
+  <millis>1698145119043</millis>
+  <nanos>468200</nanos>
+  <sequence>3</sequence>
+  <logger>Principale</logger>
+  <level>INFO</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somma= -2</message>
+</record>
+<record>
+  <date>2023-10-24T10:58:39.043468200Z</date>
+  <millis>1698145119043</millis>
+  <nanos>468200</nanos>
+  <sequence>4</sequence>
+  <logger>Principale</logger>
+  <level>INFO</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somma= -4</message>
+</record>
+<record>
+  <date>2023-10-24T10:58:39.044549Z</date>
+  <millis>1698145119044</millis>
+  <nanos>549000</nanos>
+  <sequence>5</sequence>
+  <logger>Principale</logger>
+  <level>INFO</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somma= 3</message>
+</record>
+<record>
+  <date>2023-10-24T10:58:39.044549Z</date>
+  <millis>1698145119044</millis>
+  <nanos>549000</nanos>
+  <sequence>6</sequence>
+  <logger>Principale</logger>
+  <level>INFO</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somma= -2</message>
+</record>
+<record>
+  <date>2023-10-24T10:58:39.044549Z</date>
+  <millis>1698145119044</millis>
+  <nanos>549000</nanos>
+  <sequence>7</sequence>
+  <logger>Principale</logger>
+  <level>INFO</level>
+  <class>main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>somma= 2</message>
+</record>
+</log>
